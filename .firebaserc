@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tourofheroes-minhduchoang": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "tourofheroes-minhduchoang"
+        ]
+      }
+    }
+  }
+}
